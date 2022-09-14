@@ -5,7 +5,7 @@ API desenvolvida para um site fictício de campeonato de futebol utilizando MySQ
 
 ## Ferramentas Utilizadas
 
-- Typescript
+- TypeScript
 - Express
 - Sequelize
 - JWT
